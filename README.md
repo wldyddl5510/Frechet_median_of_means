@@ -5,4 +5,4 @@
 
 * Run: One can simply run the npc_geomstat.ipynb file.
 
-* Implementation detail: The code is implemented using Jupyter notebook, and can be easily ran by using a default version of Google Colab.
+* Implementation detail: The code is implemented using Jupyter notebook, with a default version of Google Colab.
